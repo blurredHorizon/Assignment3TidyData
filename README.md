@@ -7,7 +7,7 @@ The assignment parameters were not as clear to me as I would've liked but
 I performed clean up based on what I believed it was asking.
 
 A detailed breakdown of what was done to process the data is available, as code,
-in the script: Assignment3_Script.R.  This README is only an overview of the
+in the script: run_analysis.R.  This README is only an overview of the
 procedures used in that file.  Since this is made to be more understandable than
 the code it may not follow the same order as the code, but it is still consistent with the code.
 

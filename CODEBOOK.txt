@@ -24,7 +24,7 @@ WALKING_SD - Standard Deviation of walking data
 WALKING_DOWNSTAIRS_SD - Standard Deviation of walking downstairs data
 WALKING_UPSTAIRS_SD - Standard Deviation of walking upstairs data
 
-Assignment3_Script.R
+run_analysis.R
 =====================
 This file contains the script for how the data was processed.  It will download the data from 
 the source provided by the Getting and Cleaning data assignment description.  It will
