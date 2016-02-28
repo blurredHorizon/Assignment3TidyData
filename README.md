@@ -21,7 +21,7 @@ added as columns to their respective dataset.  Then the features were added as
 variable names to their appropriate columns.  The codes for the activities 
 were then replaced by the description for the activities.
 
-Since both the test and train data sets mirror each other in terms of structure
+At this point, both the test and train data sets mirror each other in terms of structure
 the train data set was appended to the test data set to combine them into
 a single dataset. 
 
