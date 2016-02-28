@@ -22,7 +22,7 @@ variable names to their appropriate columns.  The codes for the activities
 were then replaced by the description for the activities.
 
 At this point, both the test and train data sets mirror each other in terms of structure
-the train data set was appended to the test data set to combine them into
+so the train data set was appended to the test data set to combine them into
 a single dataset. 
 
 Then for each person and feature the mean and standard deviation was 
@@ -31,7 +31,7 @@ standing, walking, walking upstairs and walking downstairs.  In total this
 dataset has 14 columns each of which is described in the modified CODEBOOK.txt.
 
 The directory "working" and file "ActivityMeans.txt" is the output of the 
-R script.  The "ActivityMeans.txt" in this respository is the unmodified
+R script.  The "ActivityMeans.txt" in this repository is the unmodified
 output of the R script.
 
  
