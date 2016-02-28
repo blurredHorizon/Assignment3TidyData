@@ -28,7 +28,9 @@ a single dataset.
 Then for each person and feature the mean and standard deviation was 
 calculated for each activity.  There were 6 activities: laying, sitting,
 standing, walking, walking upstairs and walking downstairs.  In total this 
-dataset has 14 columns each of which is described in the modified CODEBOOK.txt.
+dataset has 14 columns each of which is described in CODEBOOK.txt.  
+(CODEBOOK.txt is a modified version of the README.txt included with the
+original data.)
 
 The directory "working" and file "ActivityMeans.txt" is the output of the 
 R script.  The "ActivityMeans.txt" in this repository is the unmodified
